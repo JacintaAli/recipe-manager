@@ -102,3 +102,26 @@ form button:hover {
 #recipes li .delete-btn:hover {
     background-color: #ff85c4; /* Lighter pink on hover */
 }
+
+/* Dropdown styling */
+form select {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+/* Category headers */
+.category {
+    margin-top: 20px;
+}
+
+.category h3 {
+    margin: 0;
+    color: #ff69b4; /* Pink category title */
+    border-bottom: 2px solid #ff85c4;
+    padding-bottom: 5px;
+}
+
