@@ -1,6 +1,6 @@
 /* Reset and base styles */
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     margin: 0;
     padding: 0;
     background: linear-gradient(135deg, #ffe4e1, #ffc1cc); /* Soft pink gradient */
@@ -29,6 +29,7 @@ header {
 
 header h1 {
     margin: 0;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 /* Form styling */
@@ -57,6 +58,7 @@ form button {
     color: white;
     font-size: 16px;
     cursor: pointer;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 form button:hover {
